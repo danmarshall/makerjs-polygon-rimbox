@@ -1,6 +1,6 @@
 {
   "name": "makerjs-polygon-rimbox",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A drawing of a parametric polygon box with a bolt hole at each corner.",
   "main": "index.js",
   "scripts": {
